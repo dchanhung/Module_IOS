@@ -1,9 +1,9 @@
-#!url=https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/modules/Locket_duyvinh09.sgmodule
-#!name=Locket-DuyVinh09_Gold
-#!desc=Crack By DuyVinh09
+#!url=https://raw.githubusercontent.com/DChanHung/Module_IOS/refs/heads/main/modules/Locket_DChanHung.sgmodule
+#!name=Locket-DChanHung_Gold
+#!desc=Crack By DChanHung
 
 [Script]
-# ~ By Duyvinh09
+# ~ By DChanHung
 # ～ Egern transfer to Shadowrocket & Surge & LanceX
 revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/Locket_DuyVinh09.js, requires-body=true, max-size=-1, timeout=60
 
