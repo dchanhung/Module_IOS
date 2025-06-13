@@ -1,6 +1,6 @@
-var duyvinh09 = JSON.parse($response.body);
+var dchanhung = JSON.parse($response.body);
 
-duyvinh09.result = {
+dchanhung.result = {
     "products" : [
         {
             "managed" : false,
@@ -13,4 +13,4 @@ duyvinh09.result = {
     "activated" : true
 };
 
-$done({body : JSON.stringify(duyvinh09)});
+$done({body : JSON.stringify(dchanhung)});
