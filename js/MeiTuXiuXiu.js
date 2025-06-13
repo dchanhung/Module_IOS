@@ -4,7 +4,7 @@ Kịch bản：R·E
 Link App：https://apps.apple.com/cn/app/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80/id416048305
 Phiên bản hỗ trợ：Phiên bản mới nhất trong AppStore 9.3.80
 Thời gian cập nhật：2022.1.17
-Tele：https://t.me/tienich
+Tele：https://fb.com/dchanhung
 Tuyên bố sử dụng: ⚠️⚠️⚠️Tài liệu này chỉ dùng để học tập và giao tiếp, vui lòng không in lại hoặc bán! ⚠️⚠️⚠️
 */
 
