@@ -1,4 +1,4 @@
-var duyvinh09 = JSON.parse($response.body);
+var dchanhung = JSON.parse($response.body);
 const ua = $request.headers["User-Agent"] || $request.headers["user-agent"];
 const times = Date.now();
 
@@ -9,7 +9,7 @@ const list = {
 
 for (const key of Object.keys(list)) {
     if (new RegExp(`^${key}`, "i").test(ua)) {
-        duyvinh09.result = {
+        dchanhung.result = {
         "products": [
             {
                 "managed": true,
@@ -30,9 +30,9 @@ for (const key of Object.keys(list)) {
         ],
         "activated": true
         };
-        console.log("Hoạt động đã thành công 🎉🎉🎉\nKênh chia sẻ tienich: https://t.me/tienich");
+        console.log("Hoạt động đã thành công 🎉🎉🎉\nFacebook Admin: https://fb.com/dchanhung");
         break;
     }
 }
 
-$done({ body: JSON.stringify(duyvinh09) });
+$done({ body: JSON.stringify(dchanhung) });
