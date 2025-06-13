@@ -2,8 +2,8 @@
 
 > ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭
 > Author            @duyvinh09
-> TgChannel         https://t.me/tienich
-> ScriptURL         https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/revenuecat.js
+> InfoAdmin         https://fb.com/dchanhung
+> ScriptURL         https://raw.githubusercontent.com/dchanhung/Module_IOS/refs/heads/main/js/revenuecat.js
 
 
 [rewrite_local]
@@ -345,15 +345,15 @@ var duyvinh09 = {
   expires_date: _0x31b760(388, "xFMr"),
   grace_period_expires_date: null,
   unsubscribe_detected_at: null,
-  original_purchase_date: "2005-01-09T01:04:17Z",
-  purchase_date: "2005-01-09T01:04:17Z",
+  original_purchase_date: "2007-09-14T01:04:17Z",
+  purchase_date: "2007-09-14T01:04:17Z",
   store: "app_store"
 };
 var duyvinh = {
   grace_period_expires_date: null,
-  purchase_date: "2005-01-09T01:04:17Z",
+  purchase_date: "2007-09-14T01:04:17Z",
   product_identifier: _0x31b760(404, "!sYB"),
-  expires_date: "2099-01-09T01:04:17Z"
+  expires_date: "2099-09-14T01:04:17Z"
 };
 const match = Object.keys(mapping).find(_0x2d4787 => ua.includes(_0x2d4787));
 if (match) {
