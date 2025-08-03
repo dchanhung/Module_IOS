@@ -17,12 +17,12 @@ var dchanhung = {
       grace_period_expires_date: null,
       unsubscribe_detected_at: null,
       original_purchase_date: "2007-09-14T10:10:15Z",
-      purchase_date: "2007-09-14T10:10:14Z",
+      purchase_date: "2008-10-28T10:10:14Z",
       store: "app_store"
   },
   locketGold = {
       grace_period_expires_date: null,
-      purchase_date: "2005-09-14T10:10:14Z",
+      purchase_date: "2008-10-28T10:10:14Z",
       product_identifier: "com.dchanhung.premium.yearly",
       expires_date: "2099-01-09T10:10:14Z"
   };
