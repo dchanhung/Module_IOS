@@ -16,7 +16,7 @@ var dchanhung = {
       expires_date: "2099-01-09T10:10:14Z",
       grace_period_expires_date: null,
       unsubscribe_detected_at: null,
-      original_purchase_date: "2007-09-14T10:10:15Z",
+      original_purchase_date: "2008-10-28T10:10:15Z",
       purchase_date: "2008-10-28T10:10:14Z",
       store: "app_store"
   },
